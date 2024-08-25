@@ -10,4 +10,7 @@ El laberinto se representa como una matriz de dos dimensiones, donde cada elemen
 + un obstáculo (1)
 + el objetivo (G)
 
+Como se aprecia en la imagen, el objetivo es que el fotob o agente llegue a la meta sin chocarse con obstaculos y por la ruta mas corta y optima posible.
+
 ![robot](https://github.com/user-attachments/assets/710469e3-63df-4846-a24d-602dacc4216a)
+
