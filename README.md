@@ -1,1 +1,2 @@
-# juego-de-navegaci-n-en-un-laberinto
+# Juego de navegacion por el laberinto
+## machine learning
